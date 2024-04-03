@@ -2,7 +2,7 @@
 ### Information Gathering ###
 _**Information gathering**_ is a systematic approach to collecting, organizing, and analyzing data that incorporates planning, quality control, and stakeholder involvement, and it's fundamental for informed decision-making and comprehensive research.
 * Amass
-  * Amass is a verb that means to gather or collect something, usually in large quantities or numbers. It implies the accumulation or assembly of a substantial amount of something. This can be physical objects, such as wealth, possessions, or resources, or it can refer to intangible things like knowledge, information, or support. The term suggests a deliberate effort to accumulate or gather over time.(https://www.youtube.com/watch?v=Ey_qfk-yAlY)
+  * This package contains a tool to help information security professionals perform network mapping of attack surfaces and perform external asset discovery using open source information gathering and active reconnaissance techniques.(https://www.youtube.com/watch?v=Ey_qfk-yAlY)
 * Dmitry
   * Dmitry is a male given name of Slavic origin, commonly used in countries such as Russia, Ukraine, Belarus, and other Slavic-speaking regions. It is derived from the Greek name "Demetrius," which means "devoted to Demeter," the Greek goddess of agriculture and fertility. Dmitry is a popular name in Russian-speaking cultures and has variations such as Dmitri, Dmitriy, or Dmitrii.
 * Ike-scan
@@ -33,6 +33,9 @@ _**Vulnerability Analysis**_ encompasses the systematic identification, assessme
 
 ## Web Application Analysis ##
 _**Web application Analysis**_ involves the systematic examination of web applications to identify vulnerabilities, security weaknesses, and potential threats. This process typically includes various steps such as reconnaissance, vulnerability scanning, manual testing, and analysis of web application components. Security professionals use a combination of automated tools and manual techniques to assess the security posture of web applications, including identifying common vulnerabilities such as SQL injection, cross-site scripting (XSS), insecure authentication mechanisms, and misconfigured access controls. The goal of web application analysis is to identify and address security issues before they can be exploited by attackers, thereby ensuring the confidentiality, integrity, and availability of the web application and its data.
+* Burpsuite
+   * Burpsuite an integrated platform for performing security testing of web applications. Its various tools work seamlessly together to support the entire testing process, from initial mapping and analysis of an application's attack surface, through to finding and exploiting security vulnerabilities.(https://www.youtube.com/watch?v=NN7qC7bUZos)
+  
 
 
 
