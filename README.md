@@ -1,4 +1,4 @@
-### [Joana Marie S. Ailes] (https://www.facebook.com/joanamarie.ailes.7) and [Veberly B. Barrio] (https://www.facebook.com/veberly.barrio17/) ###
+### [Joana Marie S. Ailes](https://www.facebook.com/joanamarie.ailes.7) and [Veberly B. Barrio](https://www.facebook.com/veberly.barrio17/) ###
 ### Information Gathering ###
 _**Information gathering**_ is a systematic approach to collecting, organizing, and analyzing data that incorporates planning, quality control, and stakeholder involvement, and it's fundamental for informed decision-making and comprehensive research.
 * Amass
