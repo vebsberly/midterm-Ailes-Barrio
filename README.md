@@ -1,4 +1,4 @@
-### [Joana Marie S. Ailes](https://www.facebook.com/joanamarie.ailes.7) and [Veberly B. Barrio](https://www.facebook.com/veberly.barrio17/) ###
+ ### [Joana Marie S. Ailes](https://www.facebook.com/joanamarie.ailes.7) and [Veberly B. Barrio](https://www.facebook.com/veberly.barrio17/) ###
 ### Information Gathering ###
 _**Information gathering**_ is a systematic approach to collecting, organizing, and analyzing data that incorporates planning, quality control, and stakeholder involvement, and it's fundamental for informed decision-making and comprehensive research.
 * Amass
@@ -69,12 +69,36 @@ _**Password Attacks**_ are nefarious attempts engineered by cyber criminals to m
   * Medusa is intended to be a speedy, massively parallel, modular, login brute-forcer. The goal is to support as many services which allow remote authentication as possible. The author considers following items as some of the key features of this application: * Thread-based parallel testing. Brute-force testing can be performed against multiple hosts, users or passwords concurrently. * Flexible user input. Target information (host/user/password) can be specified in a variety of ways. For example, each item can be either a single entry or a file containing multiple entries. Additionally, a combination file format allows the user to refine their target listing. * Modular design. Each service module exists as an independent .mod file. This means that no modifications are necessary to the core application in order to extend the supported list of services for brute-forcing.(https://www.youtube.com/watch?v=7gYq0SSGxr4)
 * Ncrack
   * Ncrack is a high-speed network authentication cracking tool. It was built to help companies secure their networks by proactively testing all their hosts and networking devices for poor passwords. Security professionals also rely on Ncrack when auditing their clients.(https://www.youtube.com/watch?v=77rzpahVGZE)
-    
+* Ohpcrack
+  * Ophcrack is a tool that can be used for breaking Windows passwords. This is a free, open-source tool that can recover all the hashes of the SAM (security accounts manager) registry key in older versions and LM Hashes in more recent ones.(https://www.youtube.com/watch?v=1w6SWA7-yRM)
+* Wordlists
+  * Wordlists are text files containing a sequence of commonly used words. This can be lists of common user names, passwords, web site directories, typical files on a web site, etc. You will mostly use wordlists for fuzzing purposes (enumerating web directories and files), using tools such as Dirb, FFUF or Burp Suite.(https://www.youtube.com/watch?v=kA-eWYzjX8c)
 
+## Wireless Attacks ##
+_**Wireless Attacks**_ Wireless attacks in Kali Linux involve using tools like Aircrack-ng and Wireshark to scan for Wi-Fi networks, capture traffic, crack passwords, set up rogue access points, and exploit vulnerabilities. These tools are used by security professionals for authorized testing to identify and secure wireless network weaknesses.
+* Aircrack-ng
+  * aircrack-ng is an 802.11a/b/g WEP/WPA cracking program that can recover a 40-bit, 104-bit, 256-bit or 512-bit WEP key once enough encrypted packets have been gathered. Also it can attack WPA1/2 networks with some advanced methods or simply by brute force.(https://www.youtube.com/watch?v=TreIFFNGMGU)
+* Fern wifi cracker (root)
+  * This package contains a Wireless security auditing and attack software program written using the Python Programming Language and the Python Qt GUI library, the program is able to crack and recover WEP/WPA/WPS keys and also run other network based attacks on wireless or ethernet based networks.(https://www.youtube.com/watch?v=abpSK-wOmyQ)
+* Kismet
+  * Kismet is a wireless network and device detector, sniffer, wardriving tool, and WIDS (wireless intrusion detection) framework. Kismet works with Wi-Fi interfaces, Bluetooth interfaces, some SDR (software defined radio) hardware like the RTLSDR, and other specialized capture hardware.(https://www.youtube.com/watch?v=3v_bwtHIToQ)
+* Pixiewps
+  * Pixiewps is a tool written in C used to bruteforce offline the WPS pin exploiting the low or non-existing entropy of some APs (pixie dust attack). It is meant for educational purposes only.(https://vimeo.com/126489367)
+* Reaver
+  * Reaver performs a brute force attack against an access point’s Wi-Fi Protected Setup pin number. Once the WPS pin is found, the WPA PSK can be recovered and alternately the AP’s wireless settings can be reconfigured. This package also provides the Wash executable, an utility for identifying WPS enabled access points.(https://www.youtube.com/watch?v=2YiWTX95PQ8)
+* Wifite
+  * Wifite is a tool to audit WEP or WPA encrypted wireless networks. It uses aircrack-ng, pyrit, reaver, tshark tools to perform the audit. This tool is customizable to be automated with only a few arguments and can be trusted to run without supervision.(https://www.youtube.com/watch?v=Ny8j2iVlX_s)
 
-
-
-
+## Reverse Engineering ##
+_**Reverse Engineering**_ Reverse engineering is a valuable exercise that enables people to research and recognize the internal workings of software programs, hardware, or structures. By dissecting and scrutinizing those additives, reverse engineering gear provides beneficial insights which could resource in protection checks, debugging, and even innovation.
+* NASM Shell
+  * Netwide Assembler. NASM will currently output flat-form binary files, a.out, COFF and ELF Unix object files, and Microsoft 16-bit DOS and Win32 object files.
+Also included is NDISASM, a prototype x86 binary-file disassembler which uses the same instruction table as NASM.(https://www.youtube.com/watch?v=huhX4n-QmqA)
+* Clang
+  * Clang project is a C, C++, Objective C and Objective C++ front-end for the LLVM compiler. Its goal is to offer a replacement to the GNU Compiler Collection (GCC). Clang implements all of the ISO C++ 1998, 11 and 14 standards and also provides most of the support of C++17.(https://www.youtube.com/watch?v=dK3VpoMBFzY)
+* Clang++
+  * Clang with LLVM or G++ can be used as a compiler. Clang is frontend for LLVM, which means Clang compiles C++ enough for LLVM to optimize. G++ is GNU c++ compiler.
+* 
 
 
 
